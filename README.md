@@ -22,5 +22,17 @@ open a file "nano inventory.ini"
 
 <img width="1381" height="896" alt="Screenshot 2025-09-25 at 5 16 36 pm" src="https://github.com/user-attachments/assets/92e339c5-9a7b-4f09-bfbe-b3b3d2b70e26" />
 
+open a new file "nano install_nginx.yml"
+
+<img width="996" height="823" alt="Screenshot 2025-09-25 at 6 08 45 pm" src="https://github.com/user-attachments/assets/8e786d63-211d-49ad-a737-a78f1613f07a" />
+
+Open a new file "vim configure_nginx.yml"
+<img width="1381" height="896" alt="Screenshot 2025-09-25 at 6 06 44 pm" src="https://github.com/user-attachments/assets/36186309-ee5f-4d34-ac73-56391067c8ba" />
+
+
+
+
+
+
 
 
