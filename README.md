@@ -29,10 +29,19 @@ Login into your aws console and ssh your key to the terminal
 ### Open a new file "vim configure_nginx.yml"
 <img width="1381" height="896" alt="Screenshot 2025-09-25 at 6 06 44 pm" src="https://github.com/user-attachments/assets/36186309-ee5f-4d34-ac73-56391067c8ba" />
 
+Now run the playbook to install and configure nginx "ansible-playbook -i inventory.ini install_nginx.yml"
+<img width="1107" height="235" alt="Screenshot 2025-09-26 at 12 39 31 am" src="https://github.com/user-attachments/assets/204dc785-e6d4-447c-9ce3-c82133d6c287" />
+
+### ansible-playbook -i inventory.ini configure_nginx.yml
 
 
+<img width="939" height="625" alt="Screenshot 2025-09-26 at 12 42 22 am" src="https://github.com/user-attachments/assets/6436c866-2269-4f91-9bf8-e4d9d33d90ac" />
+
+### Verify nginx is running the tagget server
+<img width="921" height="267" alt="Screenshot 2025-09-26 at 12 43 00 am" src="https://github.com/user-attachments/assets/8bd19d5c-5305-4069-90d6-d60357a9079c" />
+
+### run the Local Ip http://44.223.63.0  
 
 
-
-
+<img width="996" height="823" alt="Screenshot 2025-09-26 at 12 51 35 am" src="https://github.com/user-attachments/assets/4024baac-015d-4e8c-9aef-5e7235025310" />
 
